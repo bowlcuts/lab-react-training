@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.id {
+  display: flex;
+  align-items: center;
+  line-height: 0.7;
+  border: 2px solid black;
+  margin: 3%;
+}
+
+.id-details {
+  margin-left: 5%;
+  font-size: 13px;
+  text-align: left;
+}

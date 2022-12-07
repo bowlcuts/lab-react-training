@@ -50,3 +50,8 @@
   font-size: 13px;
   text-align: left;
 }
+
+.rating {
+  display: flex;
+  justify-content: center;
+}
